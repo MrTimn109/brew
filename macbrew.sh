@@ -18,6 +18,7 @@ echo "Installing Browsers"
 #Chat and communication
 echo "Installing Chat and communication apps"
   brew cask install  telegram-desktop
+  brew cask install webex-teams
   #brew cask install chatmate-for-whatsapp
 
 #scripting and coding tools
